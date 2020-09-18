@@ -17,10 +17,10 @@ The command used to generate the Latex source code is
 ```
 python code2pdf.py [output-path] [code-path] [language]
 ```
-For example, if we want to generate the Latex source for the code repo `./mmdetection` (which is written mainly in python) in `./output_dir`, we can use
+For example, if we want to generate in `./output_dir` the Latex source for the code repo `./mmdetection` (which is written mainly in python), we can use
 ```
 python code2pdf.py ./output_dir ./mmdetection python
 ```
 Note that the script will make a new directory named `./output_dir`, and will throw an error if it already exists.
 
-For a list of supported languages, please see the table at the end of [link](https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted).
+For a list of supported languages, please see the table at the end of this [page](https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted).
