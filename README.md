@@ -3,7 +3,7 @@ A python tool for converting code into print-friendly PDF
 
 <p float="left">
   <img src="https://s1.gifyu.com/images/test_code2pdf__2__.jpg" height="370" />
-  [![test_code2pdf__2__.jpg](https://s1.gifyu.com/images/test_code2pdf__2__.jpg)](https://gifyu.com/image/4gMT)
+  <img src="https://s1.gifyu.com/images/test_code2pdf__2_.jpg" height="370" />
 </p>
 <p float="left">
   <img src="https://media.giphy.com/media/l5JI56dZ1UhnehgmdE/giphy.gif" height="370" />
