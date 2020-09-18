@@ -1,5 +1,7 @@
 # code2pdf
-A python tool for converting code into print-friendly PDF
+A python tool for converting code into print-friendly PDF.
+
+I wrote it mainly to alleviate my eye fatigue caused by reading source code on the screen.
 
 <p float="left">
   <img src="https://s1.gifyu.com/images/test_code2pdf__2_.jpg" width="400" />
@@ -8,7 +10,7 @@ A python tool for converting code into print-friendly PDF
 </p>
 
 ## Notes
-1. This is not a project that aims to cover all the demand (there is not much a one file project can do), but just a small tool that caters to my need (alleviating my eye fatigue for reading code on the screen).
+1. This is not a project that aims to cover all the demand (there is not much a one file project can do), but just a small tool that caters to my need (alleviating my eye fatigue).
 
 2. Technically, it does not generate a pdf file directly. It will generate a Latex project, which can be compiled manually by the user into pdf. I only tested it in the [Overleaf](https://www.overleaf.com/) environment, so uploading the results to [Overleaf](https://www.overleaf.com/) for compiling is highly recommended.
 
