@@ -1,5 +1,5 @@
 # code2pdf
-This is a small python tool for converting code into print-friendly PDF. I wrote it because I wanted to print the code of some projects out on paper to read. It is too suffering for my eyes to read a lot of code on the screen.
+This is a small python tool for converting code into print-friendly PDF. I wrote it because I wanted to print the code of some projects out on paper to read. It was too suffering for my eyes to read a lot of code on the screen.
 
 <p float="left">
   <img src="https://s1.gifyu.com/images/test_code2pdf__2_.jpg" width="400" />
